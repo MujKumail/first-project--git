@@ -23,3 +23,21 @@ The countdown is set to:
 
 ```js
 var countDownDate = new Date("May 18, 2025 00:00:00").getTime();
+
+
+📂 Project Structure
+
+📁 project-folder
+│
+├── index.html
+├── style.css
+└── images/
+    ├── background.png
+    ├── rocket.png
+    ├── logo.png
+    └── triangle.png
+
+🔧 How to Use
+Clone or download the repository:
+
+git clone https://github.com/your-username/coming-soon-page.git
