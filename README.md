@@ -10,9 +10,6 @@ This is a responsive "Coming Soon" landing page with a live countdown timer, bui
 - Clean layout with a background image and custom fonts
 - Eye-catching "Learn More" button
 
-## 📸 Preview
-
-![Screenshot](images/screenshot.png) <!-- Replace with actual screenshot if available -->
 
 ## 🛠️ Built With
 
